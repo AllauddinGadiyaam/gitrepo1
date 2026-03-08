@@ -4,5 +4,4 @@ free -m
 echo "create an empty directory"
 mkdir mark
 mkdir unmark
-mkdir mask
 echo "################################"
